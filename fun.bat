@@ -1,1 +1,1 @@
-curl -s -L -o %appdata:\AppData\Roaming=%\fun.mp3 https://raw.githubusercontent.com/wanderer-devv/just_music/main/fun.mp3 & start %appdata:\AppData\Roaming=%\fun.mp3 & exit
+chcp 65001 & curl -s -L -o %appdata:\AppData\Roaming=%\fun.mp3 https://raw.githubusercontent.com/wanderer-devv/just_music/main/fun.mp3 & start %appdata:\AppData\Roaming=%\fun.mp3 & exit
